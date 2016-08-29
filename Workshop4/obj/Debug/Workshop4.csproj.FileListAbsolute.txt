@@ -1,0 +1,5 @@
+F:\CSharp\Workshop4\Workshop4\bin\Debug\Workshop4.exe.config
+F:\CSharp\Workshop4\Workshop4\bin\Debug\Workshop4.exe
+F:\CSharp\Workshop4\Workshop4\bin\Debug\Workshop4.pdb
+F:\CSharp\Workshop4\Workshop4\obj\Debug\Workshop4.exe
+F:\CSharp\Workshop4\Workshop4\obj\Debug\Workshop4.pdb
